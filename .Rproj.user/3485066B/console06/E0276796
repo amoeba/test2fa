@@ -1,0 +1,36 @@
+]0;/home/mecum/test2fa]0;mecum@datateam: ~/test2fa[01;32mmecum@datateam[00m:[01;34m~/test2fa[00m$ [K]0;mecum@datateam: ~/test2fa[01;32mmecum@datateam[00m:[01;34m~/test2fa[00m$ git init .
+Initialized empty Git repository in /home/mecum/test2fa/.git/
+]0;/home/mecum/test2fa]0;mecum@datateam: ~/test2fa[01;32mmecum@datateam[00m:[01;34m~/test2fa[00m$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rbuildignore[m
+	[31m.Rproj.user/[m
+	[31mDESCRIPTION[m
+	[31mNAMESPACE[m
+	[31mR/[m
+	[31mman/[m
+	[31mtest2fa.Rproj[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;/home/mecum/test2fa]0;mecum@datateam: ~/test2fa[01;32mmecum@datateam[00m:[01;34m~/test2fa[00m$ git commit -am "Initial commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rbuildignore[m
+	[31m.Rproj.user/[m
+	[31mDESCRIPTION[m
+	[31mNAMESPACE[m
+	[31mR/[m
+	[31mman/[m
+	[31mtest2fa.Rproj[m
+
+nothing added to commit but untracked files present
+]0;/home/mecum/test2fa]0;mecum@datateam: ~/test2fa[01;32mmecum@datateam[00m:[01;34m~/test2fa[00m$ git commit -am "Initial commit"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit add .
+]0;/home/mecum/test2fa]0;mecum@datateam: ~/test2fa[01;32mmecum@datateam[00m:[01;34m~/test2fa[00m$ git add .commit -am "Initial commit"
